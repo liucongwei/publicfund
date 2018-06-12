@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 /target/
+=======
+/test/
+/target/
+/.settings/
+/.classpath
+/.project
+/.checkstyle
+/.idea
+*.iml
+/disconf
+/logs
+*/disconf
+*/logs
+*/target/
+*/*.iml
+/shell/
+>>>>>>> branch 'master' of https://github.com/liucongwei/publicfund.git
