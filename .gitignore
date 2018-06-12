@@ -1,0 +1,15 @@
+/test/
+/target/
+/.settings/
+/.classpath
+/.project
+/.checkstyle
+/.idea
+*.iml
+/disconf
+/logs
+*/disconf
+*/logs
+*/target/
+*/*.iml
+/shell/
