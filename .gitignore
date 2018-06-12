@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 /target/
-=======
 /test/
 /target/
 /.settings/
@@ -16,4 +14,3 @@
 */target/
 */*.iml
 /shell/
->>>>>>> branch 'master' of https://github.com/liucongwei/publicfund.git
